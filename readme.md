@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Archived.** Serenity now lives at [wheredoesyourmindgo/serenity-qmk](https://github.com/wheredoesyourmindgo/serenity-qmk) as a QMK external userspace. This repo is kept for history only.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
